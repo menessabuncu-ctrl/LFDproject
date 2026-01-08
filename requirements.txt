@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP
+nltk
+
+# Web Scraping
+beautifulsoup4
+requests
+selenium
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+jupyter
